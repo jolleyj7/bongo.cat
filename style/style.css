@@ -1,6 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow);
+
 body {
     background-color: #FFF;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Barlow', sans-serif;
     font-size: 14px;
     text-align: center;
     -moz-user-select: none;
@@ -9,7 +11,7 @@ body {
     user-select: none;
 }
 a {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Barlow', sans-serif;
     font-size: 14px;
     text-decoration: none;
 }
